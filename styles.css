@@ -45,7 +45,7 @@ nav > h1 {
     justify-content: center;
     margin-top: 10px;
     margin-bottom: 10px;
-    color: white
+    color: white;
 }
 
 .navlinks > a:after {
@@ -53,6 +53,7 @@ nav > h1 {
     font-weight: 900;
     content: "\f0ab";
     margin-left: 5px;
+    color:rgba(255, 255, 255, 0.411)
 }
 
 
